@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  font-family: Lato, sans-serif;
+  color: #0c162c;
+}
+
+h1 {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #0c162c;
+}
+
+h2,
+h3 {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #d6d8db;
+}
+
+
+hr {
+  border-top: 1px solid #fff;
+  margin-top: 2px;
+  width: 90%;
+}
+
+
+
+/*============================================ HEADER ========*/
+
+#logo {
+  float: left;
+  font-size: 240%;
+  margin-left: 30px;
+}
+
+
+#menu {
+  font-size: 110%;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+#menu,
+#logo {
+  line-height: 75px;
+  align-items: center;
+}
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#menu a:hover {
+  border-bottom: 2px solid #0c162c;
+  background-color: #0c162c;
+  background-size: 120%;
+  color: #fff;
+}
+
+/*==???????????????????==============*/
+
+#split {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+#split h2 {
+  margin-left: 30px;
+  text-align: left;
+  font-weight: lighter;
+  color: #2a3141;
+}
+
+/*====================color: #2a3141;==============================TABS============*/
+
+
+#programs {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.tabs {
+  list-style: none;
+  position: relative;
+  width: 100%;
+  font-family: sans-serif
+}
+
+.tabs input[type="radio"] {
+  display: none;
+}
+
+.tabs li {
+  display: block;
+}
+
+.tabs label {
+  display: block;
+  cursor: pointer;
+  padding: 10px 30px;
+  background-color: #0c162c;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  text-align: left;
+}
+
+.tabs label:hover {
+  color: #98c004;
+}
+
+.tabs .tab-pan {
+  display: none;
+  overflow: hidden;
+  width: 100%;
+
+  border-bottom: 1px solid #0c162c;
+  height: 500px;
+}
+
+
+
+.tabs [id^="tab"]:checked+label {
+  color: #0c162c;
+  background-color: #98c004;
+  pointer-events: none;
+
+}
+
+.tabs [id^="tab"]:checked~[id^="tab-pan"] {
+  display: block;
+}
+
+/*=================================== PAN1 ========*/
+
+#tab-pan1 {
+  border-bottom: 1px solid #fff;
+  margin-right: 2%;
+}
+
+.pan-content {
+  position: absolute;
+  align-items: center;
+  margin-top: 10%;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 30px;
+  width: 99%;
+}
+
+.pan-content p {
+  line-height: 160%;
+  text-align: left;
+  margin-right: 100px;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.7%;
+}
+
+.video {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+/*=========================================== PAN2 ========*/
+#tab-pan2 {
+  background: url('../images/2.1.jpg') no-repeat center center;
+
+}
+
+/*=========================================== PAN3 ========*/
+#tab-pan3 {
+  background: url('../images/3.1.jpg') no-repeat center center;
+
+}
+
+/*=========================================== PAN4 ========*/
+#tab-pan4 {
+  background: url('../images/4.1.jpg') no-repeat center center;
+  width: 100%;
+}
+
+#events-4 div {
+  color: #fff;
+  background-color: rgba(0, 0, 0, .7);
+  width: 25%;
+  height: 500px;
+  float: left;
+  padding: 30px 0 0 30px;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+}
+
+#events-4 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.date:hover {
+  background-color: #98c004;
+  border: 2px solid #98c004;
+  background-size: 120%;
+  color: #fff;
+}
+
+
+#spring {
+  color: rgb(17, 206, 17);
+  text-align: center;
+}
+
+#summer {
+  color: yellow;
+  text-align: center;
+}
+
+#fall {
+  color: orangered;
+  text-align: center;
+
+}
+
+#winter {
+  color: white;
+  text-align: center;
+}
+
+.sub {
+  border-bottom: 1px solid #868991;
+  margin: 0 30px 2px 0;
+  font-size: small;
+  letter-spacing: 1px;
+
+}
+
+.date {
+  text-align: right;
+  margin-right: 30px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  font-size: small;
+
+}
+
+/*=========================================== FOOTER ========*/
+
+footer {
+  position: relative;
+  height: 100px;
+
+}
+
+footer div {
+  text-align: center;
+  padding-right: 30px;
+}
+
+footer li {
+  display: inline-block;
+  padding: 10px;
+}
+
+footer i {
+  font-size: 160%;
+  color: #0c162c;
+
+}
+
+footer p {
+  font-size: x-small;
+
+}
+
+/*=================================== Gallary ==================*/
+
+#photos {
+  column-count: 4;
+  clear: both;
+  line-height: 0;
+  column-gap: 0;
+ }
+
+#photos > img {
+  width: 100%;
+}
+
+
+/*=================================== Contact ===------------====*/
+
+.form-section i {
+  font-size: 160%;
+ }
+ 
+.form-section {
+  clear: left;
+  background: url('../images/1.1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
+.form-section div {
+  float: right;
+  
+}
+
+.contact-form {
+  margin: 150px 0 0 0 ;
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.7);
+  max-width: 400px;
+  position: absolute;
+  left:10%;
+  padding:30px;    
+  
+}
+
+.contact-form h2 {
+  color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.contact-form p {
+  
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+.text-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0 ;
+  border: 1px solid #fafafa;
+  border-radius: 2px;
+}
+
+.text-input:hover {
+  border-color: #98c004;
+}
+
+#message {
+  overflow: auto;
+  width: 100%;
+  
+  background: transparent;
+  border: none;
+  outline: none;
+
+}
+
+.send-button {
+  margin-top: 40px;
+  border-radius:2px;
+  padding: 15px 32px 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #98c004;
+  color: #fafafa;   
+  display: block;
+ 
+} 
+
+.send-button:hover {
+  background-color:  #fafafa;
+  color: #98c004; 
+} 
+
+
+/*=================================== SMALL SCREEN SETUP ========*/
+
+@media screen and (max-width: 950px) {
+  #photos {
+    column-count: 2;
+}
+}
+
+@media screen and (max-width: 800px) {
+
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+  #tab-pan1 {
+    height: auto;
+
+  }
+
+  #events-4 div {
+    padding: 2% 0 0 2%;
+    font-size: 1.5vmax;
+  }
+
+  #events-4 p {
+    font-size: 1.5vmax;
+  }
+
+  .pan-content {
+    font-size: 1.5vmax;
+  }
+}
+
+
+
+  .contact-form {
+  
+    left: 3%;
+      
+    
+  }
+  
