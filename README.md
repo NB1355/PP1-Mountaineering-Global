@@ -66,8 +66,8 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 * [codepen](https://codepen.io/mperetto/pen/QYQEGK)
 
 
-## Testing
-# Technical Tests
+# Testing
+## Technical Tests
 ![Alt text](assets/images/docs/cssTest.jpg)
 ![Alt text](assets/images/docs/htmlTest.jpg)
 #
@@ -100,8 +100,15 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 ![Alt text](assets/images/docs/mTests.jpg)
 
 ## Deployment
+The project was done first in the Dev environment, tested by adding each part of the code,
+after passing dev tests, deployment to the final environment is done.
 
+The project was deployed to GitHub Pages using the following steps:
 
+* In the GitHub repository, navigate to the Settings tab.
+* From the source section drop-down menu, select the Main Branch.
+* Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* commits show the transfer from dev and resolving minor issues at the end
 
 #
 # Credits
