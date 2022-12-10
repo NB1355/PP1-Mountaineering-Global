@@ -67,9 +67,11 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 
 
 ## Testing
-
-
-## Manual User tests
+# Technical Tests
+![Alt text](assets/images/docs/cssTest.jpg)
+![Alt text](assets/images/docs/htmlTest.jpg)
+#
+## Manual User Tests
 ![Alt text](assets/images/docs/mTests.jpg)
 
 
