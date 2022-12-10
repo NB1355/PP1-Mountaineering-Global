@@ -6,7 +6,7 @@ This website is developing in parallel to forming a new business idea that combi
 professional photography services for experts interested in crossing over to the other domain. 
 Using only HTML 5 and CSS 3 is the first choice to get a static responsive website running fast. 
 
-![Alt text](assets/images/readme/Idea.jpg) 
+![Alt text](assets/images/docs/Idea.jpg) 
 
 
 ## Business Requirements [Phase I]
@@ -26,7 +26,7 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 
 ## Delivered Product
 
-![Alt text](assets/images/readme/devices.jpg)
+![Alt text](assets/images/docs/devices.jpg)
 [Visit live](https://nb1355.github.io/projects-c001-prd/)
 
 
@@ -80,6 +80,6 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 # Credits
 ## Special thanks to my mentor Naoise Olof Seán Gaffney, for supporting me in designing and developing the concept.
 #
-![Alt text](assets/images/readme/GaffCo%20-%20Background.png)
+![Alt text](assets/images/docs/GaffCo%20-%20Background.png)
 ####
-![Alt text](assets/images/readme/CodeInstituteLogo.png)
+![Alt text](assets/images/docs/CodeInstituteLogo.png)
