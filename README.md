@@ -78,7 +78,7 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 
 #
 # Credits
-## Special thanks to my mentor Naoise Olof Seán Gaffney, for supporting me in designing and developing the concept.
+# Special thanks to my mentor Naoise Olof Seán Gaffney, for supporting me in designing and developing the concept.
 #
 ![Alt text](assets/images/docs/GaffCo%20-%20Background.png)
 ####
