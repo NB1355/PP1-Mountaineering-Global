@@ -10,19 +10,19 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 
 
 ## Business Requirements [Phase I]
-* Creative design to represent the main branches of the business
-    * Welcome and introduction to our business
-    * Introduction to professional summer programs.
-    * Introduction to professional winter programs.
-    * Introduction to planned four-season photography programs.
-* Simple photo gallery to showcase our artistic side!
-* Simple contact form supporting lengthy messages!
-* Access to social media directly
+* Creative design to represent the main branches of the business [Passd! using hoorizental tabs and bring all 4 areas below in Home page]
+    * Welcome and introduction to our business [Passe! enphasis by using a video as background]
+    * Introduction to professional summer programs [Passed! background photo plus simple text cover]
+    * Introduction to professional winter programs [Passed! background photo plus simple text cover]
+    * Introduction to planned four-season photography programs [Passed! background photo plus 4 sections event tab directed to contact page.]
+* Simple photo gallery to showcase our artistic side [Done! improvements in next steps]
+* Simple contact form supporting lengthy messages [Done! tested with CodeInstitute Script]
+* Access to social media directly [Done! available in the footer all pages]
 
 * Users Experience
-	* 4-5 clicks away for the user to get in touch with us! 
-	* easy navigation, proper visual experience
-	* comfortable with any device size
+	* 4-5 clicks away for the user to get in touch with us [Passed! ]
+	* easy navigation, proper visual experience [Passed! ]
+	* comfortable with any device size [Passed! Improvement possible for contact form in very small screens.]
 
 ## Delivered Product
 
@@ -71,10 +71,33 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 ![Alt text](assets/images/docs/cssTest.jpg)
 ![Alt text](assets/images/docs/htmlTest.jpg)
 #
+## Meetin BIZ Requirements [Phase I]
+* Creative design to represent the main branches of the business 
+* [Passd! using horizontal tabs and bring all four areas below in the Home page
+    * Welcome and introduction to our business 
+	* [Passe! emphasis by using a video as background]
+    * Introduction to professional summer programs 
+	* [Passed! background photo plus simple text cover]
+    * Introduction to professional winter programs 
+	* [Passed! background photo plus simple text cover]
+    * Introduction to planned four-season photography programs 
+	* [Passed! background photo plus four sections event tab directed to contact page.]
+* Simple photo gallery to showcase our artistic side 
+* [Done! improvements in the next steps]
+* Simple contact form supporting lengthy messages 
+* [Done! tested with CodeInstitute Script]
+* Access to social media directly 
+* [Done! Available in the footer of all pages]
+
+* Users Experience
+    * 4-5 clicks away for the user to get in touch with us 
+	* [Passed! tested manually]
+    * easy navigation, good visual experience 
+	* [Passed! tested manually]
+    * comfortable with any device size 
+	* [Passed! Improvement possible for the contact form in tiny screens.]
 ## Manual User Tests
 ![Alt text](assets/images/docs/mTests.jpg)
-
-
 
 ## Deployment
 
