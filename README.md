@@ -27,7 +27,7 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 ## Delivered Product
 
 ![Alt text](assets/images/docs/devices.jpg)
-![Visit live](https://nb1355.github.io/PP1/)
+[Visit live](https://nb1355.github.io/PP1/)
 
 
 ## Next Phase Potential Features
@@ -52,10 +52,10 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 
 
 ## External Resources
-* ![Google fonts]('https://fonts.googleapis.com/css?family=Montserrat:300') using Google fonts Ozwald and Lato in different sizes for all text 
-* ![Font Awesome](https://fontawesome.com/) icons for visual elements to key elements
-* ![kraigadams]("https://www.youtube.com/embed/WKcnvPDgifA?autoplay=1&mute=1") sample hiking video used as home 1st background
-* ![Thephotoargus](https://www.thephotoargus.com/most-famous-mountains-in-the-world-to-photograph/) source for the pictures 
+* [Google fonts]('https://fonts.googleapis.com/css?family=Montserrat:300') using Google fonts Ozwald and Lato in different sizes for all text 
+* [Font Awesome](https://fontawesome.com/) icons for visual elements to key elements
+* [kraigadams]("https://www.youtube.com/embed/WKcnvPDgifA?autoplay=1&mute=1") sample hiking video used as home 1st background
+* [Thephotoargus](https://www.thephotoargus.com/most-famous-mountains-in-the-world-to-photograph/) source for the pictures 
 
 
 ## General Knowledge and Hours of Reading
