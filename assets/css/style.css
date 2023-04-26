@@ -104,6 +104,8 @@ hr {
   display: none;
 }
 
+
+
 .tabs li {
   display: block;
 }
@@ -310,31 +312,30 @@ footer p {
   background-size: cover;
   background-position: center;
   height: 900px;
+  min-width: 300px;
 }
 
-.form-section div {
-  float: right;
-
-}
 
 .contact-form {
-  margin: 150px 0 0 0;
+
+  margin: 150px 30px 0 30px;
   color: #fff;
-  background-color: rgba(60, 60, 60, 0.7);
-  max-width: 400px;
-  position: absolute;
+  background-color: rgba(60, 60, 60, 0.85);
+  max-width: 70%;
   left: 10%;
   padding: 30px;
+  display: inline-block;
+
 
 }
 
 .contact-form h2 {
   color: #fafafa;
   margin-bottom: 20px;
+  font-weight: bold;
 }
 
 .contact-form p {
-
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -347,22 +348,35 @@ footer p {
   margin: 5px 0 20px 0;
   border: 1px solid #fafafa;
   border-radius: 2px;
+  outline: none;
+}
+
+input[type="radio"] {
+  accent-color: #98c004;
+  margin-right: 10px;
 }
 
 .text-input:hover {
   border-color: #98c004;
 }
 
-#message {
-  overflow: auto;
-  width: 100%;
+textarea {
 
+  width: 96%;
+  min-height: 100px;
+  padding: 10PX;
   background: transparent;
-  border: none;
+  margin-top: 10px;
+  border: 1px solid #fafafa;
+  color: #fafafa;
   outline: none;
+  font-size: large;
+
 }
 
 .send-button {
+
+  width: 100%;
   margin-top: 40px;
   border-radius: 2px;
   padding: 15px 32px 15px 32px;
@@ -414,11 +428,4 @@ footer p {
   .pan-content {
     font-size: 1.5vmax;
   }
-}
-
-.contact-form {
-
-  left: 3%;
-
-
 }
