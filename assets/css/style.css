@@ -33,8 +33,6 @@ hr {
   width: 90%;
 }
 
-
-
 /*============================================ HEADER ========*/
 
 #logo {
@@ -42,7 +40,6 @@ hr {
   font-size: 240%;
   margin-left: 30px;
 }
-
 
 #menu {
   font-size: 110%;
@@ -74,8 +71,6 @@ hr {
   color: #fff;
 }
 
-/*==???????????????????==============*/
-
 #split {
   overflow: hidden;
   position: relative;
@@ -90,8 +85,7 @@ hr {
   color: #2a3141;
 }
 
-/*====================color: #2a3141;==============================TABS============*/
-
+/*============================TABS============*/
 
 #programs {
   overflow: hidden;
@@ -136,8 +130,6 @@ hr {
   border-bottom: 1px solid #0c162c;
   height: 500px;
 }
-
-
 
 .tabs [id^="tab"]:checked+label {
   color: #0c162c;
@@ -187,8 +179,6 @@ hr {
   height: 100%;
 }
 
-
-
 /*=========================================== PAN2 ========*/
 #tab-pan2 {
   background: url('../images/main/2.1.jpg') no-repeat center center;
@@ -230,7 +220,6 @@ hr {
   color: #fff;
 }
 
-
 #spring {
   color: rgb(17, 206, 17);
   text-align: center;
@@ -266,7 +255,6 @@ hr {
   margin-top: 2px;
   margin-bottom: 5px;
   font-size: small;
-
 }
 
 /*=========================================== FOOTER ========*/
@@ -274,7 +262,6 @@ hr {
 footer {
   position: relative;
   height: 100px;
-
 }
 
 footer div {
@@ -290,7 +277,6 @@ footer li {
 footer i {
   font-size: 160%;
   color: #0c162c;
-
 }
 
 footer p {
@@ -305,9 +291,9 @@ footer p {
   clear: both;
   line-height: 0;
   column-gap: 0;
- }
+}
 
-#photos > img {
+#photos>img {
   width: 100%;
 }
 
@@ -316,8 +302,8 @@ footer p {
 
 .form-section i {
   font-size: 160%;
- }
- 
+}
+
 .form-section {
   clear: left;
   background: url('../images/main/1.1.jpg');
@@ -328,18 +314,18 @@ footer p {
 
 .form-section div {
   float: right;
-  
+
 }
 
 .contact-form {
-  margin: 150px 0 0 0 ;
+  margin: 150px 0 0 0;
   color: #fff;
   background-color: rgba(60, 60, 60, 0.7);
   max-width: 400px;
   position: absolute;
-  left:10%;
-  padding:30px;    
-  
+  left: 10%;
+  padding: 30px;
+
 }
 
 .contact-form h2 {
@@ -348,17 +334,17 @@ footer p {
 }
 
 .contact-form p {
-  
+
   margin-bottom: 10px;
   margin-top: 10px;
-
 }
+
 .text-input {
   background: transparent;
   color: #fafafa;
   width: 100%;
   height: 25px;
-  margin: 5px 0 20px 0 ;
+  margin: 5px 0 20px 0;
   border: 1px solid #fafafa;
   border-radius: 2px;
 }
@@ -370,29 +356,27 @@ footer p {
 #message {
   overflow: auto;
   width: 100%;
-  
+
   background: transparent;
   border: none;
   outline: none;
-
 }
 
 .send-button {
   margin-top: 40px;
-  border-radius:2px;
+  border-radius: 2px;
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
   background-color: #98c004;
-  color: #fafafa;   
+  color: #fafafa;
   display: block;
- 
-} 
+}
 
 .send-button:hover {
-  background-color:  #fafafa;
-  color: #98c004; 
-} 
+  background-color: #fafafa;
+  color: #98c004;
+}
 
 
 /*=================================== SMALL SCREEN SETUP ========*/
@@ -400,7 +384,7 @@ footer p {
 @media screen and (max-width: 950px) {
   #photos {
     column-count: 2;
-}
+  }
 }
 
 @media screen and (max-width: 800px) {
@@ -432,12 +416,9 @@ footer p {
   }
 }
 
+.contact-form {
+
+  left: 3%;
 
 
-  .contact-form {
-  
-    left: 3%;
-      
-    
-  }
-  
+}
