@@ -73,7 +73,7 @@ Using only HTML 5 and CSS 3 is the first choice to get a static responsive websi
 #
 ## Meeting BIZ Requirements [Phase I]
 * Creative design to represent the main branches of the business 
-* [Passd! using horizontal tabs and bring all four areas below in the Home page
+* [Passd! using horizontal tabs and bring all four areas below in the Home page]
     * Welcome and introduction to our business 
 	* [Passe! emphasis by using a video as background]
     * Introduction to professional summer programs 
@@ -117,3 +117,10 @@ Special thanks to my mentor [Naoise Olof Seán Gaffney](https://github.com/Naois
 ![Alt text](assets/images/docs/GaffCo%20-%20Background.png)
 ####
 ![Alt text](assets/images/docs/CodeInstituteLogo.png)
+
+
+
+
+|index	|	Gallery|	 Contact| 404	|
+|---|---|---|---|
+|	![Snapshot](assets/images/docs/Dev-001-02.jpg)	|	![Snapshot](assets/images/docs/Dev-001-01.jpg)|	![Snapshot](assets/images/docs/Dev-001-03.jpg)	|	![Snapshot](assets/images/docs/Dev-001-04.jpg)| !
