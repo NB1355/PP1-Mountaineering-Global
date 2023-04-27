@@ -123,6 +123,12 @@ Special thanks to my mentor [Naoise Olof Seán Gaffney](https://github.com/Naois
 |**Responsivity**|
 |				 |	![Snapshot](assets/images/docs/Dev-001-02.jpg) | ![Snapshot](assets/images/docs/Dev-001-01.jpg)|	![Snapshot](assets/images/docs/Dev-001-03.jpg)	|	![Snapshot](assets/images/docs/Dev-001-04.jpg)| 
 ||
-|**Preformanc** |
+|**CSS**        |
 |				|	![Snapshot](assets/images/docs/Dev-002-02.jpg) | ![Snapshot](assets/images/docs/Dev-002-01.jpg)|	![Snapshot](assets/images/docs/Dev-002-03.jpg)	|	![Snapshot](assets/images/docs/Dev-002-04.jpg)| 
+||
+|**HTML**       |
+|				|	![Snapshot](assets/images/docs/Dev-003-02.jpg) | ![Snapshot](assets/images/docs/Dev-003-01.jpg)|	![Snapshot](assets/images/docs/Dev-003-03.jpg)	|	![Snapshot](assets/images/docs/Dev-003-04.jpg)| 
+||
+|**Performance**|Lighthouse, desktop|
+|				|	![Snapshot](assets/images/docs/Dev-004-02.jpg) | ![Snapshot](assets/images/docs/Dev-004-01.jpg)|	![Snapshot](assets/images/docs/Dev-004-03.jpg)	|	![Snapshot](assets/images/docs/Dev-004-04.jpg)| 
 ||
