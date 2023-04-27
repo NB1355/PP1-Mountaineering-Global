@@ -114,13 +114,15 @@ The project was deployed to GitHub Pages using the following steps:
 # Credits
 Special thanks to my mentor [Naoise Olof Seán Gaffney](https://github.com/NaoiseGaffney) for supporting me in designing and developing the concept.
 #
-![Alt text](assets/images/docs/GaffCo%20-%20Background.png)
-####
-![Alt text](assets/images/docs/CodeInstituteLogo.png)
 
 
+## DEVELOPER TESTS
 
-
-|index	|	Gallery|	 Contact| 404	|
-|---|---|---|---|
-|	![Snapshot](assets/images/docs/Dev-001-02.jpg)	|	![Snapshot](assets/images/docs/Dev-001-01.jpg)|	![Snapshot](assets/images/docs/Dev-001-03.jpg)	|	![Snapshot](assets/images/docs/Dev-001-04.jpg)| !
+|   |index | Gallery | Contact | 404 |
+|---|------|---------|---------|-----|
+|**Responsivity**|
+|				 |	![Snapshot](assets/images/docs/Dev-001-02.jpg) | ![Snapshot](assets/images/docs/Dev-001-01.jpg)|	![Snapshot](assets/images/docs/Dev-001-03.jpg)	|	![Snapshot](assets/images/docs/Dev-001-04.jpg)| 
+||
+|**Preformanc** |
+|				|	![Snapshot](assets/images/docs/Dev-002-02.jpg) | ![Snapshot](assets/images/docs/Dev-002-01.jpg)|	![Snapshot](assets/images/docs/Dev-002-03.jpg)	|	![Snapshot](assets/images/docs/Dev-002-04.jpg)| 
+||
